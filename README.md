@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:04/01/2026
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,9 +33,25 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="image"><img class="rectangle" src="img/rectangle-1.png" /></div>
+  </body>
+</html>
+
+```
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2026-01-04 233432.png>)
 
 
 ## RESULT:
